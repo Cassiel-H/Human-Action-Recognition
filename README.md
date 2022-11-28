@@ -1,4 +1,6 @@
 # COMP90051 Statistical Machine Learning Project  
+The Kaggle learderboard: https://www.kaggle.com/competitions/comp90051-2021-semester-2-project-1/overview
+
 "Human action recognition, i.e., recognizing the category of a human behaviour from a sequence, is very important in our daily life. Human action recognition techniques can be used in many applications such as detecting dangerous behaviours in visual surveillance and analysing pedestrian behaviours for safe operation in autonomous driving systems." [Source Here](https://github.com/Cassiel-H/Human-Action-Recognition/blob/main/ProjectSpec.pdf)
 
 
